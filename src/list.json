@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "value": "第1张",
+    "img": "images/1.jpg"
+  },
+  {
+    "id": 1,
+    "value": "第2张",
+    "img": "images/2.jpg"
+  },
+  {
+    "id": 2,
+    "value": "第3张",
+    "img": "images/3.jpg"
+  },
+  {
+    "id": 3,
+    "value": "第4张",
+    "img": "images/4.jpg"
+  },
+  {
+    "id": 4,
+    "value": "第5张",
+    "img": "images/6.jpg"
+  },
+  {
+    "id": 5,
+    "value": "第6张",
+    "img": "images/5.jpg"
+  },
+  {
+    "id": 6,
+    "value": "第7张",
+    "img": "images/6.jpg"
+  },
+  {
+    "id": 7,
+    "value": "第8张",
+    "img": "images/5.jpg"
+  },
+  {
+    "id": 8,
+    "value": "第9张",
+    "img": "images/4.jpg"
+  },
+  {
+    "id": 9,
+    "value": "第10张",
+    "img": "images/3.jpg"
+  }
+]
